@@ -1,3 +1,5 @@
 # Passanger-Counter-App
 
-This is the first test of creating README.md file.
+This app is for recording passangers.
+Has Save, Increment and Decrement buttons.
+It displays passanger number on screen.
