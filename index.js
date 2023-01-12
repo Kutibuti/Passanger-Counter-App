@@ -20,4 +20,3 @@ function save() {
     countEl.textContent = peopleamount
 }
  
-//12.31 de kaldim
